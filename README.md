@@ -34,6 +34,6 @@ Version 1 uses three documented fixed schemas. It does not connect to a payment 
 
 ## Current purchase status
 
-The commercial package is ready at USD 19 one-time for one business. Checkout publication is pending the selling platform's required human verification. This repository does not claim an order, sale, or revenue until a real purchase is completed and settled.
+The commercial package is available for [USD 19 one-time on Payhip](https://payhip.com/b/DjJEw) for one business. This repository does not claim an order, sale, or revenue; those require a real purchase that has completed and settled.
 
 Copyright 2026 ZAKU. The evaluation demo has its own license inside the download; the paid software is not distributed from this repository.
